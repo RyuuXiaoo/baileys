@@ -46,7 +46,7 @@ Gunakan ini jika kamu ingin menggunakan identitas paket langsung dari sumbernya.
 
 ```json
 "dependencies": {
-    "linhuaxiu/baileys": "github:linhuaxiu/baileys"
+    "linhuaxiu/baileys": "github:linhuaxiu/baileys-pro"
 }
 ```
 
@@ -56,7 +56,7 @@ Gunakan ini agar kamu tetap bisa melakukan import ... from 'baileys' tanpa harus
 
 ```json
 "dependencies": {
-    "baileys": "github:linhuaxiu/baileys"
+    "baileys": "github:linhuaxiu/baileys-pro"
 }
 ```
 
@@ -75,13 +75,13 @@ Gunakan salah satu perintah di bawah ini untuk memasang library ke proyek kamu m
 
 ```bash
 # Versi Stabil
-npm install linhuaxiu/baileys
+npm install linhuaxiu/baileys-pro
 
 # Atau menggunakan shortcut GitHub
-npm install github:linhuaxiu/baileys
+npm install github:linhuaxiu/baileys-pro
 
 # Atau spesifik menggunakan nama paket
-npm install baileys@github:linhuaxiu/baileys
+npm install baileys@github:linhuaxiu/baileys-pro
 
 ```
 
@@ -91,10 +91,10 @@ Jika kamu menggunakan Yarn sebagai manajer paket, gunakan perintah berikut:
 
 ```bash
 # Menggunakan shortcut GitHub
-yarn add github:linhuaxiu/baileys
+yarn add github:linhuaxiu/baileys-pro
 
 # Atau spesifik menggunakan nama paket
-yarn add baileys@github:linhuaxiu/baileys
+yarn add baileys@github:linhuaxiu/baileys-pro
 
 ```
 
